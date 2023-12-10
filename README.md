@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h1>I am student at IT Telkom Surabaya </h1>
+<p></p>with NIm : 1201230037</p>
+<p></p>My Major : Software Engginering | SE-06-02</p>
+
 <!--
 **duriskifeb/duriskifeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
