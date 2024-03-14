@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I am Muhammad Rizky Febriyanto, Student of Telkom University Surabaya.
 
 <!--
 **duriskifeb/duriskifeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
