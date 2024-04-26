@@ -19,6 +19,7 @@ I am a second semester student at Telkom University Surabaya
 
  </div>
 
+<br/>
 <div align="center"> 
   <a href="rizkiyfebriyanto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -36,7 +37,8 @@ I am a second semester student at Telkom University Surabaya
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,vscode,tailwind,bootstrap,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,vscode,tailwind,bootstrap,figma,github,git" />
 </div>
 
+<hr>
 
