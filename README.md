@@ -15,7 +15,8 @@
 
 <div align="center">
 
-I am a second semester student at Telkom University Surabaya
+<p>I am a second semester student at Telkom University Surabaya<br>but I can't consistently write code, because it's in the processing stage<br> Doain agar bisa, Amminn...<p>
+
 
  </div>
 
