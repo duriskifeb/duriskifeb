@@ -32,14 +32,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 </div>
-
-
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,vscode,tailwind,bootstrap,figma,github,git" />
-</div>
-
 <hr>
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=duriskifeb&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" align="right" width="300px">
+
 
