@@ -1,7 +1,9 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" />
   <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="40px"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=800&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=230&lines=HEYY+THERE!" alt="Animated Text" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1500&color=3B82F6&center=true&vCenter=true&width=530&height=50&lines=Hello+there!;I+am+Muhammad+Rizky+Febriyanto;Nice+to+meet+you!" alt="Typing SVG" />
+  
   <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="40px"/>
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" /> 
 </div>
@@ -66,12 +68,18 @@ I design, build, and ensure the quality of whatever I can imagine.
 </details>
 
 ---
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=duriskifeb&theme=default&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=duriskifeb&theme=default&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duriskifeb&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duriskifeb&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=duriskifeb&theme=transparent&hide_border=true" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duriskifeb&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=duriskifeb&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" width="48%" />
+</div>
 
 ---
 <p align="center">
