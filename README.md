@@ -26,7 +26,7 @@ I design, build, and ensure the quality of whatever I can imagine.
 ### 👨‍💻 About Me
 * 🎓 **Software Engineering Student** at Telkom University Surabaya (Cohort 2023).
 * 🏛️ **Head of HIMSE** (Himpunan Mahasiswa Software Engineering) for the 2026 period.
-* 💻 Focused on **Full-Stack Web & Mobile Development** (React, Next.js, Laravel, Flutter) and **AI Engineering**.
+* 💻 Focused on **Full-Stack Web & Mobile Development** (React, Next.js, Laravel, Flutter)
 * 🔍 Enthusiast in **Software Quality Assurance (SQA)** & Testing Methodologies.
 * 📚 Beyond coding, I enjoy philosophical reads, deep thinking, and brewing a good cup of coffee.
 
